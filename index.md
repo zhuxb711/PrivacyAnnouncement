@@ -30,7 +30,7 @@ Pre-Notes: This statement applies to all applications published by Ruofan, herei
    Once this privacy policy is changed, it will be updated on this page without notice. The final analysis right of this strategy belongs to the developer.
 
 10. Accept this strategy
-    When you install and use the app from the Windows Store, it means that you have agreed to the statements of this policy.
+    When you install and use the app from the Microsoft Store, it means that you have agreed to the statements of this policy.
 
 <p align="right">Ruofan</br>September 2024</p>
 <br/>
@@ -67,7 +67,7 @@ App 访问网络仅仅用于获取所需数据，不会上传任何用户文件�
 本隐私策略一旦发生变更，会在该页面及时更新，恕不另行通知。本策略的最终解析权归开发者所有。
 
 10. 接受本策略
-当您从 Windows 应用商店安装并使用应用，即表明您已同意该策略的各项声明。
+当您从“微软应用商店”安装并使用应用，即表明您已同意该策略的各项声明。
 
 <p align="right">Ruofan</br>2024 年 9 月</p>
 <br/>
